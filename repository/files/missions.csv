@@ -1,0 +1,8 @@
+target,aircraft,pilot
+"{'city': 'Gaza Strip', 'priority': 5, 'weather_score': 0, 'distance': 0.8050951558666797}","{'type': 'Heavy Bomber', 'speed': 850, 'fuel_capacity': 6000}","{'name': 'Jane Smith', 'skill_level': 10}"
+"{'city': 'Amman', 'priority': 3, 'weather_score': 0, 'distance': 1.1704530105903468}","{'type': 'Heavy Bomber', 'speed': 850, 'fuel_capacity': 6000}","{'name': 'Jane Smith', 'skill_level': 10}"
+"{'city': 'Beirut', 'priority': 4, 'weather_score': 0, 'distance': 1.939270924858106}","{'type': 'Heavy Bomber', 'speed': 850, 'fuel_capacity': 6000}","{'name': 'Jane Smith', 'skill_level': 10}"
+"{'city': 'Damascus', 'priority': 5, 'weather_score': 0, 'distance': 2.0757962954008784}","{'type': 'Heavy Bomber', 'speed': 850, 'fuel_capacity': 6000}","{'name': 'Jane Smith', 'skill_level': 10}"
+"{'city': 'Cairo', 'priority': 3, 'weather_score': 0, 'distance': 4.070263590972943}","{'type': 'Heavy Bomber', 'speed': 850, 'fuel_capacity': 6000}","{'name': 'Jane Smith', 'skill_level': 10}"
+"{'city': 'Ankara', 'priority': 4, 'weather_score': 0, 'distance': 8.068222444256232}","{'type': 'Heavy Bomber', 'speed': 850, 'fuel_capacity': 6000}","{'name': 'Jane Smith', 'skill_level': 10}"
+"{'city': 'Baghdad', 'priority': 5, 'weather_score': 0, 'distance': 9.700663013423364}","{'type': 'Heavy Bomber', 'speed': 850, 'fuel_capacity': 6000}","{'name': 'Jane Smith', 'skill_level': 10}"

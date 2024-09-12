@@ -1,0 +1,40 @@
+{
+  "pilots": [
+    {
+      "name": "John Doe",
+      "skill": 7
+    },
+    {
+      "name": "Jane Smith",
+      "skill": 10
+    },
+    {
+      "name": "Michael Clark",
+      "skill": 6
+    },
+    {
+      "name": "Alice Johnson",
+      "skill": 5
+    },
+    {
+      "name": "Robert White",
+      "skill": 7
+    },
+    {
+      "name": "Tom Cruise",
+      "skill": 10
+    },
+    {
+      "name": "Chris Pratt",
+      "skill": 9
+    },
+    {
+      "name": "David Miller",
+      "skill": 8
+    },
+    {
+      "name": "Sarah Connor",
+      "skill": 6
+    }
+  ]
+}
